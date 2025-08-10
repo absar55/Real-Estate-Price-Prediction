@@ -82,5 +82,5 @@ Contributions, suggestions, and feedback are welcome. Please open an issue or su
 ## 📫 Contact
 
 **Muhammad Absar Khalid**  
-Email: your.email@example.com  
+Email: mabsarkhalid@gmail.com 
 GitHub: [absar55](https://github.com/absar55)
